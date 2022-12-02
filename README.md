@@ -1,1 +1,3 @@
-A default set of handlers for the viriatum web server.
+# Viriatum Handlers
+
+A default set of handlers for the Viriatum web server.
